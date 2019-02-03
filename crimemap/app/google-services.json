@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "123081243297",
+    "firebase_url": "https://crimealert-1549097916884.firebaseio.com",
+    "project_id": "crimealert-1549097916884",
+    "storage_bucket": "crimealert-1549097916884.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123081243297:android:236044308b531798",
+        "android_client_info": {
+          "package_name": "com.example.gannys.crimealert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123081243297-5b6gnd3pjmaqul9qjbvf3sqjchee9gfe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gannys.crimealert",
+            "certificate_hash": "f4252bca5d765ec62e05df0be93506dabb8ecc5e"
+          }
+        },
+        {
+          "client_id": "123081243297-lr32dt7gjj8paotmpb1j69te9iodg5sg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANQZh_OUHVONAVOdHIptLfMsZwkvz-3_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123081243297-lr32dt7gjj8paotmpb1j69te9iodg5sg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
